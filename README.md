@@ -1,2 +1,2 @@
-# wp-feeds-disabler
-WordPress Feeds Disabler Plugin
+# WordPress Feeds Disabler Plugin
+Disable WordPress Feeds
